@@ -1,4 +1,5 @@
 ## Hi there 👋
+meu nome é Douglas Willian - estou estudando na alura - estou me desenvolvendo javascript - Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos.
 
 <!--
 **dwqm-16/dwqm-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
